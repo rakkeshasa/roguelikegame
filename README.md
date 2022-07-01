@@ -7,9 +7,23 @@
 자신의 실력을 단련하기 위해 몬스터가 있는 타워를 오르는 용사! <br/>
 세간에는 타워를 많이 오르는 것뿐만이아니라 얼마나 많은 몬스터를 잡고 왔느냐도 중요하게 여기는 듯 하다.<br/>
 모험에서의 식사는 곧 체력, 타워 내에서도 식량을 얻을 수 있으니 많이 쟁여두도록 하자.<br/><br/>
+
+#### <게임 실행 시 첫 화면>
+![1](https://user-images.githubusercontent.com/77041622/176899374-5ee25a53-04c7-45f3-b301-60513a6130e5.PNG)<br/><br/>
+
+#### <조작법 관련 화면>
+![2](https://user-images.githubusercontent.com/77041622/176899496-6242a81f-df32-4895-b9cc-be7c52cdf9fb.PNG)<br/><br/>
+
+#### <게임 실행 화면>
+![3](https://user-images.githubusercontent.com/77041622/176899568-3278e74d-93f2-4a68-89f6-ce45460fb2b9.PNG)<br/><br/>
+
+#### <게임 오버 시>
+![4](https://user-images.githubusercontent.com/77041622/176899669-f2a899ee-0bb0-46b0-b46b-e5d263909774.PNG)<br/><br/>
+
+본 프로젝트는 유니티에서 제공하는 **2D Roguelike** 튜토리얼을 참조 및 인용하여 제작했습니다.<br/>
 ![image](https://user-images.githubusercontent.com/77041622/176824671-5c557611-75ea-4d1e-8a57-f4e870a105ba.png)
-<br/>본 프로젝트는 유니티에서 제공하는 **2D Roguelike** 튜토리얼을 참조 및 인용하여 제작했습니다.<br/>
-https://assetstore.unity.com/packages/templates/tutorials/2d-roguelike-29825
+<br/>
+**2D Rougelike**(https://assetstore.unity.com/packages/templates/tutorials/2d-roguelike-29825)
 
 게임 목적 및 대상
 ---
