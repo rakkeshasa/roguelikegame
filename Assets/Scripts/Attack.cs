@@ -10,7 +10,7 @@ public class Wall : MonoBehaviour
     public AudioClip attackSound1;
     public AudioClip attackSound2;
 
-    public void DamageWall (int loss)
+    public void DamageEnemy (int loss)
     {
         SoundManager.instance.RandomizeSfx(attackSound1, attackSound2);
         hp -= loss;
