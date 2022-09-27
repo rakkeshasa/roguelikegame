@@ -56,7 +56,7 @@ public class Player : MovingObject
         if (horizontal != 0)
             vertical = 0;
 
-        // ผ๖มควั ฤฺตๅ บฮบะ
+        // ยผรถรยครร‘ รรยตรฅ ยบรยบร
 
         if (horizontal != 0 || vertical != 0)
         {
@@ -116,8 +116,8 @@ public class Player : MovingObject
 
     protected override void OnCantMove<T>(T component)
     {
-        Wall hitEnemy = component as Wall;
-        hitEnemy.DamageWall(Damage);
+        Attack hitEnemy = component as Attack;
+        hitEnemy.DamageEnemy(Damage);
         animator.SetTrigger("PlayerAttack");
     }
 
